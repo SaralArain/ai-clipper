@@ -1,4 +1,4 @@
 streamlit>=1.40
 requests>=2.31
-yt-dlp
+yt-dlp>=2026.11.23
 youtube-transcript-api>=1.0.0
